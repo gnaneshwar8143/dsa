@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0101-symmetric-tree) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
