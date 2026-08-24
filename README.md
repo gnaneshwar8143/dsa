@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/gnaneshwar8143/dsa/tree/master/1095-find-in-mountain-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/gnaneshwar8143/dsa/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
