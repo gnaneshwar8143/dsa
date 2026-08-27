@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gnaneshwar8143/dsa/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gnaneshwar8143/dsa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gnaneshwar8143/dsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gnaneshwar8143/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
