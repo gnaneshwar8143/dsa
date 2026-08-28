@@ -10,21 +10,15 @@ class Solution {
                 map.put(nums[i],1);
             }
         }
-         PriorityQueue<Integer> pq = new PriorityQueue<>(
-            (a, b) -> map.get(b) - map.get(a)
-        );
-
-        for (int key : map.keySet()) {
-            pq.add(key);
-        }
-
-        int[] ans = new int[k];
-
-        for (int i = 0; i < k; i++) {
-            ans[i] = pq.poll();
-        }
-
-        return ans;
+         PriorityQueue<Integer>pq=new PriorityQueue<>((a,b)->map.get(b)-map.get(a));
+         for(int num:map.keySet()){
+            pq.add(num);
+         }
+         int ans[]=new int[k];
+         for(int i=0;i<k;i++){
+            ans[i]=pq.poll();
+         }
+         return ans;
 
         
     }
