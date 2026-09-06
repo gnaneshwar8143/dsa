@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gnaneshwar8143/dsa/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/gnaneshwar8143/dsa/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/gnaneshwar8143/dsa/tree/master/0189-rotate-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gnaneshwar8143/dsa/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0137-single-number-ii) |
 ## Prefix Sum
 |  |
 | ------- |
