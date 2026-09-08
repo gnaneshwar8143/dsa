@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gnaneshwar8143/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gnaneshwar8143/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
@@ -209,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gnaneshwar8143/dsa/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
