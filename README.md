@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gnaneshwar8143/dsa/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gnaneshwar8143/dsa/tree/master/0189-rotate-array) |
+| [3870-count-commas-in-range](https://github.com/gnaneshwar8143/dsa/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gnaneshwar8143/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
