@@ -1,24 +1,23 @@
 class Solution {
     public int[] getAverages(int[] nums, int k) {
         int ans[]=new int[nums.length];
-        int window=2*k+1;
+        int windowsize=2*k+1;
         Arrays.fill(ans,-1);
-        if(window > nums.length) {
-    return ans;
-}
-        long sum=0;
-        for(int i=0;i<window;i++){
-            sum+=nums[i];
+        if(windowsize>nums.length){
+            return ans;
         }
-        ans[k]=(int)(sum/window);
-        for(int i=window;i<nums.length;i++){
+        long sum=0;
+        for(int i=0;i<windowsize;i++){
             sum+=nums[i];
-            sum-=nums[i-window];
-            int middle=i-k;
-            ans[middle]=(int)(sum/window);
 
         }
+        ans[k]=(int)(sum/windowsize);
+        for(int i=windowsize;i<nums.length;i++){
+            sum+=nums[i];
+            sum-=nums[i-windowsize];
+            int middle=i-k;
+            ans[middle]=(int)(sum/windowsize);
+        }
         return ans;
-        
     }
 }
