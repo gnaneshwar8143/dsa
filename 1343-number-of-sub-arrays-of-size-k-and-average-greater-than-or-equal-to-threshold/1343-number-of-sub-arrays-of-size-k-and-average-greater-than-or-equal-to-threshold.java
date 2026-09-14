@@ -4,19 +4,19 @@ class Solution {
         for(int i=0;i<k;i++){
             windowsum+=nums[i];
         }
+        int avg=windowsum/k;
         int count=0;
-        int avg=0;
-        avg=windowsum/k;
+
         if(avg>=threshold){
             count++;
         }
         for(int i=k;i<nums.length;i++){
-            windowsum+=nums[i]-nums[i-k];
+            windowsum+=nums[i];
+            windowsum-=nums[i-k];
             avg=windowsum/k;
             if(avg>=threshold){
                 count++;
             }
-
         }
         return count;
         
