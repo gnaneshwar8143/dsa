@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gnaneshwar8143/dsa/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/gnaneshwar8143/dsa/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1408-string-matching-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gnaneshwar8143/dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
