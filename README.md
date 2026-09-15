@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gnaneshwar8143/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1408-string-matching-in-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gnaneshwar8143/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/gnaneshwar8143/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 ## Hash Table
@@ -233,11 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/gnaneshwar8143/dsa/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
