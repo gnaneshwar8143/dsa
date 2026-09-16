@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/gnaneshwar8143/dsa/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/gnaneshwar8143/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/gnaneshwar8143/dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gnaneshwar8143/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gnaneshwar8143/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/gnaneshwar8143/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/gnaneshwar8143/dsa/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/gnaneshwar8143/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0219-contains-duplicate-ii) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gnaneshwar8143/dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/gnaneshwar8143/dsa/tree/master/0206-reverse-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gnaneshwar8143/dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
