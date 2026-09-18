@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1408-string-matching-in-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gnaneshwar8143/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1859-sorting-the-sentence](https://github.com/gnaneshwar8143/dsa/tree/master/1859-sorting-the-sentence) |
 | [2716-minimize-string-length](https://github.com/gnaneshwar8143/dsa/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gnaneshwar8143/dsa/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gnaneshwar8143/dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1331-rank-transform-of-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1859-sorting-the-sentence](https://github.com/gnaneshwar8143/dsa/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gnaneshwar8143/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gnaneshwar8143/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gnaneshwar8143/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/gnaneshwar8143/dsa/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
