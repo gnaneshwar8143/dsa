@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gnaneshwar8143/dsa/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/gnaneshwar8143/dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneshwar8143/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/gnaneshwar8143/dsa/tree/master/0709-to-lower-case) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/gnaneshwar8143/dsa/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/gnaneshwar8143/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/gnaneshwar8143/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gnaneshwar8143/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gnaneshwar8143/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gnaneshwar8143/dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gnaneshwar8143/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gnaneshwar8143/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gnaneshwar8143/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
