@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/gnaneshwar8143/dsa/tree/master/0709-to-lower-case) |
 | [1408-string-matching-in-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gnaneshwar8143/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1678-goal-parser-interpretation](https://github.com/gnaneshwar8143/dsa/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/gnaneshwar8143/dsa/tree/master/1859-sorting-the-sentence) |
 | [2716-minimize-string-length](https://github.com/gnaneshwar8143/dsa/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gnaneshwar8143/dsa/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
