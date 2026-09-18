@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gnaneshwar8143/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneshwar8143/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1768-merge-strings-alternately](https://github.com/gnaneshwar8143/dsa/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneshwar8143/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/2460-apply-operations-to-an-array) |
 ## Math
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gnaneshwar8143/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/gnaneshwar8143/dsa/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/gnaneshwar8143/dsa/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/gnaneshwar8143/dsa/tree/master/1859-sorting-the-sentence) |
 | [2716-minimize-string-length](https://github.com/gnaneshwar8143/dsa/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gnaneshwar8143/dsa/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
