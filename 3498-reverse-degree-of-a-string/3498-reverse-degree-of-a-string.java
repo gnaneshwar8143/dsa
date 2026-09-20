@@ -35,7 +35,7 @@ class Solution {
                 case 'z': value = 1; break;
             }
 
-            product += (i + 1) * value;
+            product += (i+1) * value;
         }
 
         return product;
