@@ -14,7 +14,6 @@ class Solution {
                 else{
                     start=mid+1;
                 }
-
             }
             else{
                 if(nums[mid]<=target&&target<=nums[end]){
@@ -23,8 +22,8 @@ class Solution {
                 else{
                     end=mid-1;
                 }
-
             }
+
 
         }
         return -1;
