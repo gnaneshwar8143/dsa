@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/gnaneshwar8143/dsa/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/gnaneshwar8143/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gnaneshwar8143/dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/gnaneshwar8143/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/gnaneshwar8143/dsa/tree/master/0682-baseball-game) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/gnaneshwar8143/dsa/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/gnaneshwar8143/dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gnaneshwar8143/dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/gnaneshwar8143/dsa/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -339,4 +341,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gnaneshwar8143/dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
