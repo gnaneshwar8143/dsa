@@ -5,10 +5,13 @@ class Solution {
         for(int i=0;i<seq.length();i++){
             char ch= seq.charAt(i);
             if(ch=='('){
-                ans[i]=++count%2;
+                count++;
+                ans[i]=count%2;
             }
             else{
-                ans[i]=count--%2;
+               
+                ans[i]=count%2;
+                 count--;
             }
             
         }
