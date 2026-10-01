@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/gnaneshwar8143/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gnaneshwar8143/dsa/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/gnaneshwar8143/dsa/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/gnaneshwar8143/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/gnaneshwar8143/dsa/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneshwar8143/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/gnaneshwar8143/dsa/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/gnaneshwar8143/dsa/tree/master/0844-backspace-string-compare) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/gnaneshwar8143/dsa/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/gnaneshwar8143/dsa/tree/master/0500-keyboard-row) |
 | [0890-find-and-replace-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0890-find-and-replace-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gnaneshwar8143/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
