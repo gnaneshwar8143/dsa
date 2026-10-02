@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/gnaneshwar8143/dsa/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/gnaneshwar8143/dsa/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/gnaneshwar8143/dsa/tree/master/1084-sales-analysis-iii) |
+| [1683-invalid-tweets](https://github.com/gnaneshwar8143/dsa/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/gnaneshwar8143/dsa/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/gnaneshwar8143/dsa/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/gnaneshwar8143/dsa/tree/master/1741-find-total-time-spent-by-each-employee) |
