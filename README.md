@@ -4,20 +4,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0101-symmetric-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/gnaneshwar8143/dsa/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0101-symmetric-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/gnaneshwar8143/dsa/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0101-symmetric-tree) |
 ## Array
 |  |
