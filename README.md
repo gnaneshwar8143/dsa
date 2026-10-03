@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gnaneshwar8143/dsa/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/gnaneshwar8143/dsa/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gnaneshwar8143/dsa/tree/master/0189-rotate-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gnaneshwar8143/dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gnaneshwar8143/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/gnaneshwar8143/dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gnaneshwar8143/dsa/tree/master/0058-length-of-last-word) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gnaneshwar8143/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gnaneshwar8143/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/gnaneshwar8143/dsa/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/gnaneshwar8143/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/gnaneshwar8143/dsa/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gnaneshwar8143/dsa/tree/master/0146-lru-cache) |
