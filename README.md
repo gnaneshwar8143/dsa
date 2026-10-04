@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/gnaneshwar8143/dsa/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneshwar8143/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/gnaneshwar8143/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/gnaneshwar8143/dsa/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/gnaneshwar8143/dsa/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0890-find-and-replace-pattern) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/gnaneshwar8143/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/gnaneshwar8143/dsa/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/gnaneshwar8143/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/gnaneshwar8143/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/gnaneshwar8143/dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/gnaneshwar8143/dsa/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gnaneshwar8143/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/gnaneshwar8143/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gnaneshwar8143/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gnaneshwar8143/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/gnaneshwar8143/dsa/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
