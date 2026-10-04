@@ -21,25 +21,30 @@ class Solution {
          
             fast=fast.next.next;
         }
-          if (fast != null) {
-            slow = slow.next;
-        }
-
-        
-        while (slow != null) {
-            st.push(slow.val);
-            slow = slow.next;
-        }
-        ListNode curr=head;
-        while(!st.isEmpty()){
-            if(curr.val!=st.pop()){
-                return false;
-
+        ListNode prev=null;
+        ListNode curr=slow;
+        ListNode next=curr.next;
+        while(curr!=null){
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+            if(curr!=null){
+                next=curr.next;
             }
-            curr=curr.next;
-            
+
+        }
+        ListNode first=head;
+        ListNode second=prev;
+        while(second!=null){
+            if(first.val!=second.val){
+                return false;
+            }
+            first=first.next;
+            second=second.next;
         }
         return true;
+          
+        
         
         
     }
