@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/gnaneshwar8143/dsa/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/gnaneshwar8143/dsa/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/gnaneshwar8143/dsa/tree/master/1768-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gnaneshwar8143/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneshwar8143/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/2460-apply-operations-to-an-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/gnaneshwar8143/dsa/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/gnaneshwar8143/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gnaneshwar8143/dsa/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gnaneshwar8143/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gnaneshwar8143/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gnaneshwar8143/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
