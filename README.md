@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gnaneshwar8143/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gnaneshwar8143/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3701-compute-alternating-sum](https://github.com/gnaneshwar8143/dsa/tree/master/3701-compute-alternating-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gnaneshwar8143/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/gnaneshwar8143/dsa/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gnaneshwar8143/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/gnaneshwar8143/dsa/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
