@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gnaneshwar8143/dsa/tree/master/0189-rotate-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gnaneshwar8143/dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/gnaneshwar8143/dsa/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2544-alternating-digit-sum](https://github.com/gnaneshwar8143/dsa/tree/master/2544-alternating-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gnaneshwar8143/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/gnaneshwar8143/dsa/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gnaneshwar8143/dsa/tree/master/3875-construct-uniform-parity-array-i) |
