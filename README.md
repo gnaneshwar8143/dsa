@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gnaneshwar8143/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0101-symmetric-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/gnaneshwar8143/dsa/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gnaneshwar8143/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gnaneshwar8143/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gnaneshwar8143/dsa/tree/master/0101-symmetric-tree) |
 ## Array
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/gnaneshwar8143/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/gnaneshwar8143/dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/gnaneshwar8143/dsa/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0456-132-pattern) |
