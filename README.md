@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/gnaneshwar8143/dsa/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gnaneshwar8143/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gnaneshwar8143/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/gnaneshwar8143/dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0137-single-number-ii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gnaneshwar8143/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/gnaneshwar8143/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gnaneshwar8143/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/gnaneshwar8143/dsa/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
