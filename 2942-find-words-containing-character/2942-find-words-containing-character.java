@@ -3,14 +3,14 @@ class Solution {
         List<Integer>list=new ArrayList<>();
         for(int i=0;i<words.length;i++){
             String word=words[i];
+            int k=0;
             
-            for(int j=0;j<word.length();j++){
-                char c=word.charAt(j);
-                if(c==x){
+            while(k<word.length()){
+                if(word.charAt(k)==x){
                     list.add(i);
                     break;
                 }
-            
+                k++;
             }
         }
         return list;
