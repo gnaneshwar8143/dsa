@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/gnaneshwar8143/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gnaneshwar8143/dsa/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gnaneshwar8143/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/gnaneshwar8143/dsa/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gnaneshwar8143/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gnaneshwar8143/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/gnaneshwar8143/dsa/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/gnaneshwar8143/dsa/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gnaneshwar8143/dsa/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2942-find-words-containing-character](https://github.com/gnaneshwar8143/dsa/tree/master/2942-find-words-containing-character) |
 | [3330-find-the-original-typed-string-i](https://github.com/gnaneshwar8143/dsa/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
