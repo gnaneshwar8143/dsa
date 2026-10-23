@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gnaneshwar8143/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gnaneshwar8143/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gnaneshwar8143/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3701-compute-alternating-sum](https://github.com/gnaneshwar8143/dsa/tree/master/3701-compute-alternating-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gnaneshwar8143/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gnaneshwar8143/dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/gnaneshwar8143/dsa/tree/master/0260-single-number-iii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gnaneshwar8143/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
