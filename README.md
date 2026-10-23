@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gnaneshwar8143/dsa/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/gnaneshwar8143/dsa/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gnaneshwar8143/dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gnaneshwar8143/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/gnaneshwar8143/dsa/tree/master/1512-number-of-good-pairs) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gnaneshwar8143/dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
