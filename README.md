@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gnaneshwar8143/dsa/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gnaneshwar8143/dsa/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/gnaneshwar8143/dsa/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gnaneshwar8143/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/gnaneshwar8143/dsa/tree/master/1512-number-of-good-pairs) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gnaneshwar8143/dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/gnaneshwar8143/dsa/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/gnaneshwar8143/dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/gnaneshwar8143/dsa/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/gnaneshwar8143/dsa/tree/master/1920-build-array-from-permutation) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gnaneshwar8143/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gnaneshwar8143/dsa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/gnaneshwar8143/dsa/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/gnaneshwar8143/dsa/tree/master/0500-keyboard-row) |
