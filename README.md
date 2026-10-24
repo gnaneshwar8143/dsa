@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gnaneshwar8143/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/gnaneshwar8143/dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/gnaneshwar8143/dsa/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/gnaneshwar8143/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/gnaneshwar8143/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gnaneshwar8143/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0456-132-pattern) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gnaneshwar8143/dsa/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gnaneshwar8143/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -494,4 +497,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gnaneshwar8143/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
