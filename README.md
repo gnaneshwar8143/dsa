@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/gnaneshwar8143/dsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gnaneshwar8143/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/gnaneshwar8143/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gnaneshwar8143/dsa/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneshwar8143/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/gnaneshwar8143/dsa/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/gnaneshwar8143/dsa/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/gnaneshwar8143/dsa/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gnaneshwar8143/dsa/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/gnaneshwar8143/dsa/tree/master/0412-fizz-buzz) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gnaneshwar8143/dsa/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneshwar8143/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
