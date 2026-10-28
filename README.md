@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gnaneshwar8143/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gnaneshwar8143/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/gnaneshwar8143/dsa/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gnaneshwar8143/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gnaneshwar8143/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gnaneshwar8143/dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gnaneshwar8143/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/gnaneshwar8143/dsa/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gnaneshwar8143/dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/gnaneshwar8143/dsa/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/gnaneshwar8143/dsa/tree/master/2544-alternating-digit-sum) |
