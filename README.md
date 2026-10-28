@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/gnaneshwar8143/dsa/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gnaneshwar8143/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3467-transform-array-by-parity](https://github.com/gnaneshwar8143/dsa/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gnaneshwar8143/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gnaneshwar8143/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3701-compute-alternating-sum](https://github.com/gnaneshwar8143/dsa/tree/master/3701-compute-alternating-sum) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/gnaneshwar8143/dsa/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gnaneshwar8143/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gnaneshwar8143/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3467-transform-array-by-parity](https://github.com/gnaneshwar8143/dsa/tree/master/3467-transform-array-by-parity) |
 ## Memoization
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/gnaneshwar8143/dsa/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3467-transform-array-by-parity](https://github.com/gnaneshwar8143/dsa/tree/master/3467-transform-array-by-parity) |
 ## Quickselect
 |  |
 | ------- |
