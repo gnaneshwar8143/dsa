@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gnaneshwar8143/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gnaneshwar8143/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/gnaneshwar8143/dsa/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gnaneshwar8143/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/gnaneshwar8143/dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gnaneshwar8143/dsa/tree/master/0496-next-greater-element-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gnaneshwar8143/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gnaneshwar8143/dsa/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/gnaneshwar8143/dsa/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gnaneshwar8143/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gnaneshwar8143/dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gnaneshwar8143/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/gnaneshwar8143/dsa/tree/master/1512-number-of-good-pairs) |
