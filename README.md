@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/gnaneshwar8143/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/gnaneshwar8143/dsa/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gnaneshwar8143/dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/gnaneshwar8143/dsa/tree/master/0748-shortest-completing-word) |
 | [0867-transpose-matrix](https://github.com/gnaneshwar8143/dsa/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0890-find-and-replace-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/gnaneshwar8143/dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneshwar8143/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/gnaneshwar8143/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/gnaneshwar8143/dsa/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/gnaneshwar8143/dsa/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/gnaneshwar8143/dsa/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/gnaneshwar8143/dsa/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0890-find-and-replace-pattern) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gnaneshwar8143/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/gnaneshwar8143/dsa/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/gnaneshwar8143/dsa/tree/master/0500-keyboard-row) |
+| [0748-shortest-completing-word](https://github.com/gnaneshwar8143/dsa/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/gnaneshwar8143/dsa/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/gnaneshwar8143/dsa/tree/master/0890-find-and-replace-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/gnaneshwar8143/dsa/tree/master/1331-rank-transform-of-an-array) |
