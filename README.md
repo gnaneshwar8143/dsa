@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/gnaneshwar8143/dsa/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gnaneshwar8143/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gnaneshwar8143/dsa/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/gnaneshwar8143/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/gnaneshwar8143/dsa/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/gnaneshwar8143/dsa/tree/master/2810-faulty-keyboard) |
